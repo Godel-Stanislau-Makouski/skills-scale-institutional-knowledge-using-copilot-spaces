@@ -6,11 +6,11 @@ Welcome to the central hub for OctoAcme's project management processes, workflow
 
 OctoAcme's project management processes are structured to ensure efficient delivery, stakeholder alignment, and continuous improvement. Every initiative starts with a Project One-pager clarifying business needs, measurable objectives, stakeholders, and risks—establishing strong alignment and a go/no-go gateway for future planning.
 
-Distinct roles are defined: Project Manager (PM) for delivery and risk, Product Manager (PdM) for vision and prioritization, Developers for implementation and testability, QA for validation, and Stakeholders for input and approval. These personas collaborate using iterative workflows and clear handoffs.
+Distinct roles are defined: Project Manager (PM) for delivery and risk, Product Manager (PdM) for vision and prioritization, Developers for implementation and testability, QA Lead for quality assurance and testing strategy, DevOps Engineer for infrastructure and deployment automation, UX Designer for user experience and interface design, Business Analyst for requirements and specifications, and Stakeholder Representatives for business input and approvals. These personas collaborate using iterative workflows and clear handoffs.
 
 Execution involves daily standups, weekly delivery syncs, and monthly stakeholder updates. Progress is visualized in boards, driven by a pull request workflow with reviews and automated tests. Blockers are escalated from team triage up to sponsor intervention. Retrospectives and a risk register underpin a culture of learning and proactive uncertainty management.
 
-Multi-layered quality assurance is integral: unit, integration, end-to-end, security scans, and targeted manual QA. Release and deployment follow standardized checklists, ensuring controlled launches and rollback capabilities. Continuous improvement is reinforced via regular retrospectives and tracked action items, creating a transparent, adaptable environment for all team members.
+Multi-layered quality assurance is integral: unit, integration, end-to-end, security scans, and targeted manual QA coordinated by the QA Lead. Release and deployment follow standardized checklists managed by DevOps Engineers, ensuring controlled launches and rollback capabilities. Continuous improvement is reinforced via regular retrospectives and tracked action items, creating a transparent, adaptable environment for all team members.
 
 ## Core Principles
 

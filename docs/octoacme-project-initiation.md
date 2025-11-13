@@ -25,13 +25,16 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Objective / Goal (SMART):
 - Success metrics:
 - Primary stakeholders:
+- Stakeholder Representative (business/customer voice):
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (including PM, PdM, Dev, QA Lead, BA, DevOps, UX as needed):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Business Analyst assigned to help with requirements gathering (if applicable)
+- [ ] Stakeholder Representative identified for business unit/customer input
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
