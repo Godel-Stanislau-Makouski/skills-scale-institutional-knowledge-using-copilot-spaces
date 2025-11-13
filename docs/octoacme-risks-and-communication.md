@@ -21,6 +21,7 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Work with Stakeholder Representatives to coordinate updates to their business units
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
@@ -36,6 +37,7 @@ Incident Communication
 - Actions being taken
 - Expected timeline
 - Post-incident blameless retrospective scheduled
+- DevOps Engineer coordinates technical response and system recovery
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
